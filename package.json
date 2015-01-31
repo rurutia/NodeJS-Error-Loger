@@ -1,0 +1,27 @@
+{
+  "name": "NodeJS-Error-Loger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "mymodule": "^1.0.0",
+    "request": "^2.51.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rurutia/NodeJS-Error-Loger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rurutia/NodeJS-Error-Loger/issues"
+  },
+  "homepage": "https://github.com/rurutia/NodeJS-Error-Loger"
+}

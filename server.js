@@ -10,8 +10,15 @@ obj.bar();
 
 var jsonObj = require('./config');
 jsonObj();
-// console.log(jsonObj);
+console.log(jsonObj);
 
+var colors = require('colors');
+console.log('This String Will Display RED'.red);
+
+var _=require('underscore');
+var min = _.min([33,23,223]);
+console.log(min);
+//http://www.xvideos.com/video9325164/_
 
 http.createServer(function (request, response) {
     console.log('request starting...',request.url);
